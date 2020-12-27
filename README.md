@@ -1,4 +1,4 @@
-# story
+# Story App Flutter
 
 A new Flutter project.
 
